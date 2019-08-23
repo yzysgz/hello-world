@@ -1,3 +1,4 @@
+"""注释"""
 def main():
     print("hello world!")
 
